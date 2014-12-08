@@ -53,9 +53,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Helpers\Helpers.csproj">
-      <Project>{467394fb-d501-4bd8-9192-4f57f55c2e96}</Project>
-      <Name>Helpers</Name>
+    <ProjectReference Include="..\itakanet.Helpers\itakanet.Helpers.csproj">
+      <Project>{8de84dea-e6d0-48f2-a206-043322a38494}</Project>
+      <Name>itakanet.Helpers</Name>
     </ProjectReference>
     <ProjectReference Include="..\itakanet.Interfaces\itakanet.Interfaces.csproj">
       <Project>{bc6cfb8b-b068-4c16-bd1b-aa0728889655}</Project>

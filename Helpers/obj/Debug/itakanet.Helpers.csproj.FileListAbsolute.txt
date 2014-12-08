@@ -1,0 +1,5 @@
+D:\Dev\GitHub\itakanet\Itaranet\Helpers\bin\Debug\Helpers.dll
+D:\Dev\GitHub\itakanet\Itaranet\Helpers\bin\Debug\Helpers.pdb
+D:\Dev\GitHub\itakanet\Itaranet\Helpers\obj\Debug\itakanet.Helpers.csprojResolveAssemblyReference.cache
+D:\Dev\GitHub\itakanet\Itaranet\Helpers\obj\Debug\Helpers.dll
+D:\Dev\GitHub\itakanet\Itaranet\Helpers\obj\Debug\Helpers.pdb

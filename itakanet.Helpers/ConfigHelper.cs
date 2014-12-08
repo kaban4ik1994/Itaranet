@@ -2,7 +2,7 @@
 
 namespace itakanet.Helpers
 {
-    public static class ConfigHelper
+    public class ConfigHelper
     {
         public static string UserName { get { return ConfigurationManager.AppSettings["Username"]; } }
         public static string Password { get { return ConfigurationManager.AppSettings["Password"]; } }
@@ -24,5 +24,6 @@ namespace itakanet.Helpers
         public static string SearchWhat { get { return ConfigurationManager.AppSettings["SearchWhat"]; } }
         public static string ShowExpedient { get { return ConfigurationManager.AppSettings["ShowExpedient"]; } }
         public static string ShowStatus { get { return ConfigurationManager.AppSettings["ShowStatus"]; } }
+
     }
 }

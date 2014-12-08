@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A90995A3-2313-4141-939E-882FA2487D3C}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{8DE84DEA-E6D0-48F2-A206-043322A38494}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>itakanet</RootNamespace>
-    <AssemblyName>itakanet</AssemblyName>
+    <RootNamespace>itakanet.Helpers</RootNamespace>
+    <AssemblyName>itakanet.Helpers</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,25 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ConfigHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\itakanet.Data\itakanet.Data.csproj">
-      <Project>{09b05c67-e8af-4b24-8fbf-25d999c0b621}</Project>
-      <Name>itakanet.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\itakanet.Interfaces\itakanet.Interfaces.csproj">
-      <Project>{bc6cfb8b-b068-4c16-bd1b-aa0728889655}</Project>
-      <Name>itakanet.Interfaces</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\itakanet.Models\itakanet.Models.csproj">
-      <Project>{f5892559-2773-4795-ad63-6ae1797d1460}</Project>
-      <Name>itakanet.Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

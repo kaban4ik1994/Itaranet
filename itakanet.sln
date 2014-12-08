@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itakanet.Interfaces", "itak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itakanet.Models", "itakanet.Models\itakanet.Models.csproj", "{F5892559-2773-4795-AD63-6AE1797D1460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{467394FB-D501-4BD8-9192-4F57F55C2E96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itakanet.Helpers", "itakanet.Helpers\itakanet.Helpers.csproj", "{8DE84DEA-E6D0-48F2-A206-043322A38494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{F5892559-2773-4795-AD63-6AE1797D1460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5892559-2773-4795-AD63-6AE1797D1460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5892559-2773-4795-AD63-6AE1797D1460}.Release|Any CPU.Build.0 = Release|Any CPU
-		{467394FB-D501-4BD8-9192-4F57F55C2E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{467394FB-D501-4BD8-9192-4F57F55C2E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{467394FB-D501-4BD8-9192-4F57F55C2E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{467394FB-D501-4BD8-9192-4F57F55C2E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE84DEA-E6D0-48F2-A206-043322A38494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE84DEA-E6D0-48F2-A206-043322A38494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE84DEA-E6D0-48F2-A206-043322A38494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE84DEA-E6D0-48F2-A206-043322A38494}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
