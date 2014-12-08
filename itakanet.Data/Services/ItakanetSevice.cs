@@ -11,7 +11,6 @@ namespace itakanet.Data.Services
     {
         private readonly IApi _api;
 
-        private string Cookie { get; set; }
 
         public ItakanetSevice(IApi api)
         {
@@ -20,12 +19,12 @@ namespace itakanet.Data.Services
 
         public void Logon(LogOnModel model)
         {
-            Cookie = _api.GetPostCookie(ConfigHelper.LogOnUrl, model);
+            _api.SetPostCookie(ConfigHelper.LogOnUrl, model);
         }
 
         public string GetBookingList(BookingCommonDataModel model)
         {
-            var result = _api.Post(ConfigHelper.BookingCommonDataUrl, model, Cookie);
+            var result = _api.Post(ConfigHelper.BookingCommonDataUrl, model);
             return result;
         }
 
