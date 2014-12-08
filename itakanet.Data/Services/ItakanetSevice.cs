@@ -20,5 +20,11 @@ namespace itakanet.Data.Services
         {
             Cookie = _api.GetPostCookie(ConfigHelper.LogOnUrl, model);
         }
+
+        public string GetBookingList(BookingCommonDataModel model)
+        {
+            var result = _api.Post(ConfigHelper.BookingCommonDataUrl, model, Cookie);
+            return result;
+        }
     }
 }

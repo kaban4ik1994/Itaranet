@@ -9,9 +9,11 @@ namespace itakanet
         static void Main()
         {
             var service = new ItakanetSevice(new ItakanetApi());
-            var creator = new LogOnModelCreator();
+            var logOnModelCreator = new LogOnModelCreator();
+            var bookingCommonDataModelCreator=new BookingCommonDataModelCreator();
 
-            service.Logon(creator.CreateLogOnModel());
+            service.Logon(logOnModelCreator.CreateLogOnModel());
+            var aa = service.GetBookingList(bookingCommonDataModelCreator.CreateBookingCommonDataModel());
         }
     }
 }
