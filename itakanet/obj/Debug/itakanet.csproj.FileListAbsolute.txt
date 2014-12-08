@@ -1,0 +1,2 @@
+D:\Dev\GitHub\itakanet\itakanet\itakanet\bin\Debug\itakanet.exe.config
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.exe.config

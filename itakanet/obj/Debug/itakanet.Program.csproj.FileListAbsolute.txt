@@ -1,0 +1,16 @@
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.exe.config
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.exe
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\obj\Debug\itakanet.Program.csprojResolveAssemblyReference.cache
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\obj\Debug\itakanet.exe
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\obj\Debug\itakanet.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Helpers.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Data.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Interfaces.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Models.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Helpers.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Data.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Interfaces.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Models.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Newtonsoft.Json.xml
