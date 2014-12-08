@@ -3,3 +3,8 @@ D:\Dev\GitHub\itakanet\Itaranet\itakanet.Helpers\bin\Debug\itakanet.Helpers.pdb
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.pdb
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Helpers\bin\Debug\itakanet.Helpers.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Helpers\bin\Debug\itakanet.Helpers.pdb
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Helpers\obj\Debug\itakanet.Helpers.pdb

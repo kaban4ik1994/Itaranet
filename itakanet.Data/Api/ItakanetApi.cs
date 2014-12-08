@@ -51,21 +51,7 @@ namespace itakanet.Data.Api
                 new KeyValuePair<string, string>("pass_forgotten", model.PassForgotten)
             });
             var result = _client.PostAsync(ConfigHelper.LogOnUrl, content).Result;
-            var cook = result.Headers.GetValues("Set-Cookie");
-            Console.WriteLine(cook);
             string resultContent = result.Content.ReadAsStringAsync().Result;
-            //   Console.WriteLine(resultContent);
-            // Console.ReadLine();
-
-            result = _client.PostAsync(ConfigHelper.BookingCommonDataUrl, new StringContent(new BookingCommonDataModel().ToString())).Result;
-            resultContent = result.Content.ReadAsStringAsync().Result;
-
-
-              //  var result =
-              //      _client.PostAsync(url, new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/x-www-form-urlencoded")).Result;
-              // result = _client.PostAsync(ConfigHelper.BookingCommonDataUrl, new StringContent(new BookingCommonDataModel().ToString())).Result;
-              //var aaa = result.Content.ReadAsStringAsync().Result;
-              //  string resultContent = result.Content.ReadAsStringAsync().Result;
         }
     }
 }

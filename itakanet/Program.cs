@@ -4,6 +4,8 @@ using itakanet.Data.Services;
 
 namespace itakanet
 {
+    using itakanet.Data.Parsers;
+
     class Program
     {
         static void Main()
@@ -15,6 +17,9 @@ namespace itakanet
             service.Logon(logOnModelCreator.CreateLogOnModel());
             var boockingList = service.GetBookingList(bookingCommonDataModelCreator.CreateBookingCommonDataModel());
             var boockingDetail = service.GetBookingDetail(7095216);
+
+            var parser = new CommonDataParser();
+            parser.Parse(boockingList);
         }
     }
 }

@@ -5,3 +5,10 @@ D:\Dev\GitHub\itakanet\Itaranet\itakanet.Models\bin\Debug\Newtonsoft.Json.xml
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.csprojResolveAssemblyReference.cache
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.pdb
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\itakanet.Models.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\itakanet.Models.pdb
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.csprojResolveAssemblyReference.cache
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.pdb

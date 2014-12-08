@@ -51,6 +51,7 @@
     <Compile Include="Api\ItakanetApi.cs" />
     <Compile Include="Creators\BookingCommonDataModelCreator.cs" />
     <Compile Include="Creators\LogOnModelCreator.cs" />
+    <Compile Include="Parsers\CommonDataParser.cs" />
     <Compile Include="Services\ItakanetSevice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

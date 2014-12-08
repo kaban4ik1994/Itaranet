@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Api\IApi.cs" />
     <Compile Include="Creators\ILogOnModelCreator.cs" />
+    <Compile Include="Parsers\ICommonDataParser.cs" />
     <Compile Include="Services\IItakanetService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
