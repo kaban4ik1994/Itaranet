@@ -9,5 +9,7 @@ namespace itakanet.Interfaces.Api
         string Post<TModel>(string url, TModel model, string cookie);
 
         string GetPostCookie<TModel>(string url, TModel model);
+
+
     }
 }
