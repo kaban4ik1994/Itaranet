@@ -38,3 +38,5 @@ C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\System.Web.Htt
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\obj\Debug\itakanet.Data.csprojResolveAssemblyReference.cache
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\obj\Debug\itakanet.Data.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\obj\Debug\itakanet.Data.pdb
+D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\itakanet.Data.dll.config
+D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\LINQtoCSV.dll

@@ -7,7 +7,6 @@ namespace itakanet
     using System;
     using System.Collections.Generic;
     using System.Globalization;
-    using System.IO;
     using System.Linq;
 
     using itakanet.Data.Parsers;
@@ -51,7 +50,7 @@ namespace itakanet
 
                 commonInformation.AddRange(list);
                 i++;
-                if (i > 50)
+                if (i > 100)
                 {
                     break;
                 }
@@ -66,20 +65,6 @@ namespace itakanet
 
             var csvWriter = new CsvWriter();
             csvWriter.SaveToFile(commonInformation);
-
-
-
-            //// return list;
-            //var writer = new StreamWriter("1.txt");
-
-            //foreach (var line in commonInformation)
-            //{
-            //    writer.WriteLine("{0} | {1} | {2} | {3} | {4} | {5} | {6}", line.ReservationNumber, line.FirstDate, line.SecondDate, line.Name, line.Price, line.Status, line.Agent);
-            //    writer.WriteLine();
-            //}
-
-            //writer.Close();
-
         }
     }
 }

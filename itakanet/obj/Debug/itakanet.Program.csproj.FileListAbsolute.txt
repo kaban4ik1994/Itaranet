@@ -7,11 +7,9 @@ D:\Dev\GitHub\itakanet\Itaranet\itakanet\obj\Debug\itakanet.pdb
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Data.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Interfaces.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Models.dll
-D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Newtonsoft.Json.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Data.pdb
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Interfaces.pdb
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Models.pdb
-D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\Newtonsoft.Json.xml
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Helpers.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\itakanet.Helpers.pdb
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet\bin\Debug\itakanet.exe.config
@@ -29,3 +27,4 @@ C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet\obj\Debug\itakanet.Program.cs
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet\obj\Debug\itakanet.exe
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet\obj\Debug\itakanet.pdb
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet\bin\Debug\LINQtoCSV.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet\bin\Debug\LINQtoCSV.dll

@@ -17,3 +17,4 @@ C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Interfaces\obj\Debug\itakanet
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Interfaces\obj\Debug\itakanet.Interfaces.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Interfaces\obj\Debug\itakanet.Interfaces.pdb
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Interfaces\bin\Debug\LINQtoCSV.dll
+D:\Dev\GitHub\itakanet\Itaranet\itakanet.Interfaces\bin\Debug\LINQtoCSV.dll
