@@ -5,7 +5,7 @@ namespace itakanet.Data.Creators
 {
     public class BookingCommonDataModelCreator
     {
-        public BookingCommonDataModel CreateBookingCommonDataModel()
+        public BookingCommonDataModel CreateBookingCommonDataModel(string page)
         {
             return new BookingCommonDataModel
                        {
@@ -17,7 +17,7 @@ namespace itakanet.Data.Creators
                            Desc = ConfigHelper.Desc,
                            OperType = ConfigHelper.OperType,
                            Orderby = ConfigHelper.Orderby,
-                           Pagecnt = ConfigHelper.Pagecnt,
+                           Pagecnt = page, //ConfigHelper.Pagecnt,
                            SearchBy = ConfigHelper.SearchBy,
                            SearchWhat = ConfigHelper.SearchWhat,
                            ShowExpedient = ConfigHelper.ShowExpedient,

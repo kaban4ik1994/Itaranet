@@ -28,11 +28,11 @@ namespace itakanet.Data.Services
             return result;
         }
 
-        public string GetBookingDetail(long id)
+        public string GetBookingDetail(string id)
         {
             var result = _api.Get(
                 ConfigHelper.BookingDetailUrl,
-                new Dictionary<string, string> { { "tourop", ConfigHelper.Tourop }, { "id", id.ToString() } });
+                new Dictionary<string, string> { { "tourop", ConfigHelper.Tourop }, { "id", id } });
             return result;
         }
     }

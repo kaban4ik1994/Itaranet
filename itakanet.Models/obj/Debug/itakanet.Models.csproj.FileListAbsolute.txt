@@ -9,6 +9,6 @@ C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\itakanet.Mod
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\itakanet.Models.pdb
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\Newtonsoft.Json.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\Newtonsoft.Json.xml
-C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.csprojResolveAssemblyReference.cache
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\obj\Debug\itakanet.Models.pdb
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Models\bin\Debug\LINQtoCSV.dll

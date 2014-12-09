@@ -8,7 +8,7 @@ namespace itakanet.Interfaces.Services
 
         string GetBookingList(BookingCommonDataModel model);
 
-        string GetBookingDetail(long id);
+        string GetBookingDetail(string id);
 
     }
 }

@@ -30,6 +30,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LINQtoCSV">
+      <HintPath>..\packages\LINQtoCSV.1.5.0.0\lib\net35\LINQtoCSV.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -42,14 +49,19 @@
     <Compile Include="Api\IApi.cs" />
     <Compile Include="Creators\ILogOnModelCreator.cs" />
     <Compile Include="Parsers\ICommonDataParser.cs" />
+    <Compile Include="Parsers\IExtendedDataParser.cs" />
     <Compile Include="Services\IItakanetService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Writers\ICsvWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\itakanet.Models\itakanet.Models.csproj">
       <Project>{f5892559-2773-4795-ad63-6ae1797d1460}</Project>
       <Name>itakanet.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

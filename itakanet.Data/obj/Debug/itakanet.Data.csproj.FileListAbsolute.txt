@@ -17,11 +17,13 @@ D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\System.Web.Http.WebHost.
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\System.Web.Http.xml
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\itakanet.Helpers.dll
 D:\Dev\GitHub\itakanet\Itaranet\itakanet.Data\bin\Debug\itakanet.Helpers.pdb
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Data.dll.config
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Data.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Data.pdb
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Helpers.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Interfaces.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\itakanet.Models.dll
+C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\LINQtoCSV.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\Newtonsoft.Json.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\a.saharchuk\Desktop\123\Itaranet\itakanet.Data\bin\Debug\System.Web.Http.WebHost.dll

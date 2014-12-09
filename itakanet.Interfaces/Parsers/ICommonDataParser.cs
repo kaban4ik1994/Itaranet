@@ -2,8 +2,10 @@
 
 namespace itakanet.Interfaces.Parsers
 {
+    using System.Collections.Generic;
+
     public interface ICommonDataParser
     {
-        CommonDataModel Parse(string htmlData);
+        IList<CommonDataModel> Parse(string htmlData);
     }
 }

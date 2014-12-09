@@ -8,7 +8,7 @@ namespace itakanet.Interfaces.Api
     {
         string Get(string url, IDictionary<string, string> parameters);
 
-        string Post<TModel>(string url, TModel model);
+        string Post(string url, BookingCommonDataModel model);
 
         void SetPostCookie(string url, LogOnModel model);
 
